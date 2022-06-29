@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3eb3d06d-8d28-4654-9e94-615d6d038c12" name="sshConfig://sshConfig://zhangsu@172.21.47.109:22 password/home/zhangsu/anaconda3/envs/pth_er/bin/python/home/zhangsu/anaconda3/envs/pth_er/bin/python">
+        <fileTransfer accessType="SFTP" host="172.21.47.109" port="22" sshConfigId="80887112-ccaa-489f-bca1-1e3c29c7b747" sshConfig="sshConfig://zhangsu@172.21.47.109:22 password/home/zhangsu/anaconda3/envs/pth_er/bin/python" />
+      </webServer>
+    </option>
+  </component>
+</project>
